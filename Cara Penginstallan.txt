@@ -1,0 +1,5 @@
+Cara Membuka Program dan Project
+1. Hidupkan terlebih dahulu Module Apache dan MySQL pada XAMPP Control Panel
+2. Buat Database baru pada localhost/phpmyadmin dengan nama bnktools, lalu Import file bnktools.sql ke Database tersebut
+3. Extract .zip
+4. Jika memiliki program Visual Studio, buka project melalui .sln yang terdapat di paling depan.
