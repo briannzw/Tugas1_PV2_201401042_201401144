@@ -1,4 +1,4 @@
-# UTS_PV2_201401042_201401144
+# Tugas1_PV2_201401042_201401144
 
 ## General Info
 Repository Project Tugas 1 Lab 2 Pemrograman Visual  
