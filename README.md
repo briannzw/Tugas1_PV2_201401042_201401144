@@ -1,7 +1,7 @@
 # UTS_PV2_201401042_201401144
 
 ## General Info
-Repository Project Tugas 1 Lab 2 Pemrograman Visual  
+Repository Project UTS Lab 2 Pemrograman Visual  
 Brian Wijaya - 201401042  
 Kevin Wijaya - 201401144  
 Ilmu Komputer  
